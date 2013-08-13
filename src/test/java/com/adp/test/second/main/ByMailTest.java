@@ -1,7 +1,7 @@
 package com.adp.test.second.main;
 
-
 import org.junit.Test;
+
 import static org.mockito.Mockito.doNothing;
 import static org.mockito.Mockito.mock;
 
@@ -23,6 +23,7 @@ public class ByMailTest {
         doNothing().when(mock_carry).deliverThePackage();
         ByMail sut = new ByMail(mock_carry);
         sut.deliver();
+
 
 
     }

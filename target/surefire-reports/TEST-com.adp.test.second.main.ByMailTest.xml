@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.adp.test.second.main.ByMailTest" time="0.196" tests="3" errors="0" skipped="0" failures="0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.164" errors="0" skipped="0" tests="3" name="com.adp.test.second.main.ByMailTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -13,7 +13,7 @@
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7537"/>
+    <property name="idea.launcher.port" value="7551"/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
@@ -24,7 +24,8 @@
     <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
     <property name="java.io.tmpdir" value="/var/folders/80/v5tp9b410r94hvtyl789hgqj03cq_s/T/"/>
-    <property name="line.separator" value="&#10;"/>
+    <property name="line.separator" value="
+"/>
     <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="os.name" value="Mac OS X"/>
     <property name="classworlds.conf" value="/usr/share/java/maven-3.0.4/bin/m2.conf"/>
@@ -46,7 +47,7 @@
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home"/>
-    <property name="sun.java.command" value="com.intellij.rt.execution.application.AppMain org.codehaus.classworlds.Launcher --fail-fast --strict-checksums package"/>
+    <property name="sun.java.command" value="com.intellij.rt.execution.application.AppMain org.codehaus.classworlds.Launcher --fail-fast --strict-checksums deploy"/>
     <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="apple.awt.CToolkit"/>
@@ -65,7 +66,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="mock_UPS_should_be_lightweight" classname="com.adp.test.second.main.ByMailTest" time="0.095"/>
-  <testcase name="No_mock_UPS_should_cause_lots_of_IO" classname="com.adp.test.second.main.ByMailTest" time="0.005"/>
-  <testcase name="mock_ICarry_should_work_as_well" classname="com.adp.test.second.main.ByMailTest" time="0.096"/>
+  <testcase time="0.002" classname="com.adp.test.second.main.ByMailTest" name="No_mock_UPS_should_cause_lots_of_IO"/>
+  <testcase time="0.125" classname="com.adp.test.second.main.ByMailTest" name="mock_UPS_should_be_lightweight"/>
+  <testcase time="0.005" classname="com.adp.test.second.main.ByMailTest" name="mock_ICarry_should_work_as_well"/>
 </testsuite>

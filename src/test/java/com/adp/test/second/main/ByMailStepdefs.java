@@ -35,4 +35,10 @@ public class ByMailStepdefs {
         // Express the Regexp above with the code you wish you had
 
     }
+
+    @And("^Paycheck is delivered through UPS$")
+    public void Paycheck_is_delivered_through_UPS() throws Throwable {
+        // Express the Regexp above with the code you wish you had
+
+    }
 }
