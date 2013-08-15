@@ -41,4 +41,5 @@ public class DependencyTest {
         assertEquals(payment.getClass(),MonthlyPay.class);
 
     }
+
 }

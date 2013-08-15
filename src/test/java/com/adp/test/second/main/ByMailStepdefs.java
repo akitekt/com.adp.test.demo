@@ -36,8 +36,9 @@ public class ByMailStepdefs {
 
     }
 
-    @And("^Paycheck is delivered through UPS$")
-    public void Paycheck_is_delivered_through_UPS() throws Throwable {
+
+    @And("^Paycheck is delivered through \"([^\"]*)\"$")
+    public void Paycheck_is_delivered_through(String carrier_name) throws Throwable {
         // Express the Regexp above with the code you wish you had
 
     }

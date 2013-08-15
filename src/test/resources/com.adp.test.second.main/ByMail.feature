@@ -4,4 +4,4 @@ Feature: Deliver the Paycheck
     When Deliver PayStub ByMail
     Then Employee should receive PayStub of PayLevel 20
     And  Employee should receive PayStub of PaymentAmount 5000
-    And Paycheck is delivered through UPS
+    And Paycheck is delivered through "UPS"

@@ -7,21 +7,25 @@
     <file path="/ByMail.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376084508943" ignored="false" />
     <file path="/Employee.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376318153685" ignored="false" />
     <file path="/pom.xml" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376083843047" ignored="false" />
-    <file path="/fragment.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376425490549" ignored="false" />
+    <file path="/fragment.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376434601635" ignored="false" />
     <file path="/Carrier.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376084194573" ignored="false" />
     <file path="/ICarrry.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376084124584" ignored="false" />
     <file path="/DHL.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376087197125" ignored="false" />
     <file path="/EmployeeTest.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376323063938" ignored="false" />
-    <file path="/BootStrapModule.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376085489091" ignored="false" />
+    <file path="/BootStrapModule.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376531635794" ignored="false" />
     <file path="/ByMailTest.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376425457728" ignored="false" />
     <file path="/ICarry.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376087416799" ignored="false" />
     <file path="/UPS.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376087422088" ignored="false" />
     <file path="/Payment.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376318064517" ignored="false" />
     <file path="/PayStub.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376318063078" ignored="false" />
     <file path="/ByMailIntegrationTest.story" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376408170201" ignored="false" />
-    <file path="/ByMail.feature" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376424989143" ignored="false" />
+    <file path="/ByMail.feature" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376433973201" ignored="false" />
     <file path="/IntegrationTest.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376411539030" ignored="false" />
     <file path="/MyIntegrationTest.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376418699251" ignored="false" />
+    <file path="/ByMailStepdefs.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376433899242" ignored="false" />
+    <file path="/ByMailMultipleInputs.feature" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376529105366" ignored="false" />
+    <file path="/ByMailMultipleChecksStepDefs.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376533463921" ignored="false" />
+    <file path="/DependencyTest.java" changelist="da0e44bb-76d6-4795-a3d3-55f86cd51c1f" time="1376531060529" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,54 +40,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/Employee.java" line="22" class="com.adp.test.second.main.Employee" package="com.adp.test.second.main">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/MonthlyPay.java" line="13" class="com.adp.test.second.main.MonthlyPay" package="com.adp.test.second.main">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java" line="23" class="com.adp.test.second.main.ByMailStepdefs" package="com.adp.test.second.main">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -120,6 +76,69 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java" line="23" class="com.adp.test.second.main.ByMailStepdefs" package="com.adp.test.second.main">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailMultipleChecksStepDefs.java" line="30" class="com.adp.test.second.main.ByMailMultipleChecksStepDefs" package="com.adp.test.second.main">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailMultipleChecksStepDefs.java" line="34" class="com.adp.test.second.main.ByMailMultipleChecksStepDefs" package="com.adp.test.second.main">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailMultipleChecksStepDefs.java" line="44" class="com.adp.test.second.main.ByMailMultipleChecksStepDefs" package="com.adp.test.second.main">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -129,46 +148,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DependencyTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/DependencyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="31" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Employee.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="44" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+            <state line="23" column="0" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="MonthlyPay.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/MonthlyPay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="73" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.43434343">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ByMail.feature" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMail.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="44" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ByMailStepdefs.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="65" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -177,17 +169,46 @@
       <file leaf-file-name="BootStrapModule.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/BootStrapModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+            <state line="13" column="38" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/EmployeeTest.java">
+      <file leaf-file-name="AbstractModule.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$M2_REPO$/com/google/code/guice/guice/1.0/guice-1.0.jar!/com/google/inject/AbstractModule.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="43" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+            <state line="13" column="28" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByMailStepdefs.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="51" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByMailMultipleInputs.feature" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMailMultipleInputs.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="46" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByMailMultipleChecksStepDefs.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailMultipleChecksStepDefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="88" selection-start="1357" selection-end="1357" vertical-scroll-proportion="1.1891348">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,19 +222,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestRunner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/TestRunner.java">
+      <file leaf-file-name="EmployeeTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/EmployeeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="215" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="326" selection-end="370" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ByMail.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/ByMail.java">
+      <file leaf-file-name="Assert.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$M2_REPO$/junit/junit/4.10/junit-4.10.jar!/org/junit/Assert.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="26" selection-start="415" selection-end="422" vertical-scroll-proportion="0.0">
+            <state line="90" column="180" selection-start="4894" selection-end="4894" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -229,22 +250,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/EmployeeTest.java" />
-        <option value="$PROJECT_DIR$/integration-test/java/ByMailIntegrationTest.story" />
-        <option value="$PROJECT_DIR$/integration-test/java/ByMail.feature" />
-        <option value="$PROJECT_DIR$/integration-test/java/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/integration-test/java/IntegrationTest.java" />
-        <option value="$PROJECT_DIR$/integration-test/java/com.adp.test.second.main/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/integration-test/java/com.adp.test.second.main/IntegrationTest.java" />
         <option value="$PROJECT_DIR$/integration-test/java/com.adp.test.second.main/ByMail.feature" />
         <option value="$PROJECT_DIR$/src/test/java/ByMailStepdefs.java" />
         <option value="$PROJECT_DIR$/integration-test/java/com.adp.test.second.main/MyIntegrationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/MyIntegrationTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMail.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/TestRunner.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMail.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/ByMail2.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/ByMailMultipleChecksStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/DependencyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adp/test/second/main/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adp/test/second/main/BootStrapModule.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMailMultipleInputs.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailMultipleChecksStepDefs.java" />
       </list>
     </option>
   </component>
@@ -289,8 +310,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="width" value="1920" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -337,7 +358,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -455,6 +475,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -471,21 +492,24 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.adp.test.second.main" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.adp.test.second.main" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.adp.test.second.main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.adp.test.second.main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -493,72 +517,8 @@
       <recent name="$PROJECT_DIR$/src/test/java/com/adp/test/second/main" />
       <recent name="$PROJECT_DIR$/integration-test/java/com.adp.test.second.main" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.adp.test.second.main" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
-    <configuration default="false" name="ByMailTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="com.adp.test.second" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.adp.test.second.main" />
-      <option name="MAIN_CLASS_NAME" value="com.adp.test.second.main.ByMailTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DependencyTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="com.adp.test.second" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.adp.test.second.main" />
-      <option name="MAIN_CLASS_NAME" value="com.adp.test.second.main.DependencyTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Feature: ByMail" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
-      <option name="GLUE" value="com.adp.test.second.main" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMail.feature&quot; --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="com.adp.test.second" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Cucumber java.Feature: ByMailMultipleInputs">
     <configuration default="false" name="All Features in: test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
       <option name="GLUE" value="com.adp.test.second.main" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
@@ -600,6 +560,62 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Feature: ByMail" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
+      <option name="GLUE" value="com.adp.test.second.main" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMail.feature&quot; --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="com.adp.test.second" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EmployeeTest.should_get_paid_correct_amount" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="com.adp.test.second" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.adp.test.second.main" />
+      <option name="MAIN_CLASS_NAME" value="com.adp.test.second.main.EmployeeTest" />
+      <option name="METHOD_NAME" value="should_get_paid_correct_amount" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Feature: ByMailMultipleInputs" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
+      <option name="GLUE" value="com.adp.test.second.main" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMailMultipleInputs.feature&quot; --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="com.adp.test.second" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -636,17 +652,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -676,19 +694,17 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <option name="GLUE" />
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
       <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -749,19 +765,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.TestRunner" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ByMailTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.DependencyTest" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber java.All Features in: test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeTest" />
       <item index="3" class="java.lang.String" itemvalue="Cucumber java.Feature: ByMail" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber java.All Features in: test" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.EmployeeTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeTest.should_get_paid_correct_amount" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber java.Feature: ByMailMultipleInputs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DependencyTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ByMailTest" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber java.All Features in: test" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber java.Feature: ByMail" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber java.Feature: ByMailMultipleInputs" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber java.Feature: ByMailMultipleInputs" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeTest.should_get_paid_correct_amount" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber java.Feature: ByMailMultipleInputs" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber java.Feature: ByMailMultipleInputs" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -816,26 +832,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="813" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1920" height="970" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39882353" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32604167" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892396" sideWeight="0.6421356" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2159254" sideWeight="0.64316547" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18292683" sideWeight="0.64316547" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35683453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20811099" sideWeight="0.6447059" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3552941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32604167" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39941692" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -906,71 +922,89 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$M2_REPO$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.jar!/org/mockito/internal/creation/MethodInterceptorFilter.class">
+    <entry file="jar://$M2_REPO$/info/cukes/cucumber-core/1.1.3/cucumber-core-1.1.3.jar!/cucumber/runtime/Timeout.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" />
+        <state line="9" column="25" selection-start="240" selection-end="240" vertical-scroll-proportion="-4.8" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/PayStub.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/DependencyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
+        <state line="43" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$M2_REPO$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.jar!/org/mockito/stubbing/OngoingStubbing.class">
+    <entry file="jar://$M2_REPO$/info/cukes/cucumber-core/1.1.3/cucumber-core-1.1.3.jar!/cucumber/runtime/StepDefinitionMatch.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="98" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" />
+        <state line="14" column="16" selection-start="772" selection-end="772" vertical-scroll-proportion="-5.6" />
       </provider>
     </entry>
-    <entry file="jar://$M2_REPO$/junit/junit/4.10/junit-4.10.jar!/org/junit/Assert.class">
+    <entry file="jar://$M2_REPO$/info/cukes/cucumber-core/1.1.3/cucumber-core-1.1.3.jar!/cucumber/runtime/Runtime.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="35" selection-start="3609" selection-end="3621" vertical-scroll-proportion="0.0" />
+        <state line="66" column="16" selection-start="3644" selection-end="3644" vertical-scroll-proportion="-10.28">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/IPay.java">
+    <entry file="jar://$M2_REPO$/info/cukes/cucumber-core/1.1.3/cucumber-core-1.1.3.jar!/cucumber/runtime/model/StepContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="882" selection-end="882" vertical-scroll-proportion="-12.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/info/cukes/cucumber-core/1.1.3/cucumber-core-1.1.3.jar!/cucumber/runtime/Utils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$M2_REPO$/info/cukes/cucumber-junit/1.0.14/cucumber-junit-1.0.14.jar!/cucumber/junit/Cucumber.class">
+    <entry file="jar://$M2_REPO$/com/google/code/guice/guice/1.0/guice-1.0.jar!/com/google/inject/AbstractModule.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/ByMail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="26" selection-start="415" selection-end="422" vertical-scroll-proportion="0.0">
+        <state line="13" column="28" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/BootStrapModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/DependencyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="31" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/EmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="43" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+        <state line="13" column="38" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="44" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+        <state line="23" column="0" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adp/test/second/main/MonthlyPay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMailMultipleInputs.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="46" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/junit/junit/4.10/junit-4.10.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="180" selection-start="4894" selection-end="4894" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="51" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -982,31 +1016,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailStepdefs.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="65" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="326" selection-end="370" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/com.adp.test.second.main/ByMail.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/ByMailMultipleChecksStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="44" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/adp/test/second/main/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="73" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.43434343">
-          <folding />
+        <state line="44" column="88" selection-start="1357" selection-end="1357" vertical-scroll-proportion="1.1891348">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

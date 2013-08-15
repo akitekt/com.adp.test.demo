@@ -1,16 +1,17 @@
 package com.adp.test.second.main;
 
 import com.google.inject.Inject;
+import com.google.inject.name.Named;
 
 class Employee {
-    private final IPay paymethod;
-    private int levelId;
-    private final IDeliver deliver;
+    final IPay paymethod;
+    int levelId;
+    final IDeliver deliver;
 
     private double payment;
 
     @Inject
-    public Employee(  int levelId, IPay paymethod, IDeliver delivermethod )
+    public Employee(  @Named("BDD Testing") int levelId, IPay paymethod, IDeliver delivermethod )
     {
         this.paymethod = paymethod;
         this.levelId = levelId;
