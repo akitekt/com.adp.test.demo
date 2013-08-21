@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.14" errors="0" skipped="0" tests="3" name="com.adp.test.second.main.DependencyTest">
+<testsuite failures="0" time="0.144" errors="0" skipped="0" tests="3" name="com.adp.test.second.main.DependencyTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -13,7 +13,7 @@
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7536"/>
+    <property name="idea.launcher.port" value="7541"/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
@@ -66,7 +66,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.136" classname="com.adp.test.second.main.DependencyTest" name="carrier_should_get_injected"/>
+  <testcase time="0.132" classname="com.adp.test.second.main.DependencyTest" name="carrier_should_get_injected"/>
   <testcase time="0.002" classname="com.adp.test.second.main.DependencyTest" name="deliver_should_get_injected"/>
   <testcase time="0.001" classname="com.adp.test.second.main.DependencyTest" name="payment_should_get_injected"/>
 </testsuite>
